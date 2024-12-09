@@ -1,0 +1,18 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Genysys Assignment",
+  "jest": {
+    "transform": {}
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
